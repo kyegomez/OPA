@@ -40,7 +40,7 @@ The **NanoEnergetic Composite Propellant (NECP)** project explores the integrati
 At OPA, our mission is to revolutionize rocket propulsion by harnessing the power of artificial intelligence to develop thousands of innovative fuel sources. We strive to identify and validate the most effective propellants, pushing the boundaries of what is possible in aerospace engineering.
 
 ## Goals
-
+- **Create a Swarms** Create a fully automated agentic pipeline to create the formulas
 - **Expand the Library:** Develop a comprehensive collection of thousands of AI-generated rocket fuel formulations.
 - **Rigorous Testing:** Implement extensive testing protocols to evaluate the performance, stability, and safety of each fuel source.
 - **Performance Optimization:** Identify and refine the most promising propellants to achieve optimal thrust and efficiency.
