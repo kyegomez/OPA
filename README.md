@@ -27,9 +27,13 @@ The **Orbital Propulsion Archives (OPA)** serves as a centralized library for in
 
 **LiStar-X** is our flagship project focusing on lithium-based hyper-efficient rocket fuels. Leveraging AI algorithms, LiStar-X aims to achieve unprecedented energy densities and stability, ensuring reliable performance in various orbital conditions.
 
+- [LINK](https://github.com/kyegomez/OPA/blob/main/listar.md)
+
 ### NanoEnergetic Composite Propellant (NECP)
 
 The **NanoEnergetic Composite Propellant (NECP)** project explores the integration of nanomaterials to create high-performance composite fuels. NECP is designed to enhance combustion efficiency and reduce residuals, contributing to greener and more sustainable propulsion systems.
+
+- [LINK](https://github.com/kyegomez/OPA/blob/main/necp.md)
 
 ## Our Mission
 
